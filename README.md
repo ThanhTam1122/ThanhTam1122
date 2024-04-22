@@ -1,8 +1,8 @@
-こんにちは ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)私はフロントエンドエンジニアです
+こんにちは ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)私はフルスタックエンジニアです
 ============================================================================================================================
 <img src="https://komarev.com/ghpvc/?username=epitt92&label=PROFILE+VIEWS" alt="Profile Views" align="right">
 
-フロントエンドエンジニア
+フルスタックエンジニア
 -----------------
 
 * 🧠  新しい技術や挑戦を学ぶのが好きです。
